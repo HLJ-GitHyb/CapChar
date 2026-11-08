@@ -11,7 +11,7 @@
 | 网盘 | 链接 | 提取码 / 密码 |
 | --- | --- | --- |
 | 夸克网盘 | https://pan.quark.cn/s/5f52c9a2e181 | `ETVN` |
-| 蓝奏云 | https://wwalq.lanzoum.com/iaPTI4f6yuje | `d9du` |
+| 蓝奏云 | https://wwalq.lanzoum.com/iaPTI4f6yuje| `d9du` |
 | 百度网盘 | https://pan.baidu.com/s/1eE_EDy6tlj8bzMY0n0taPw?pwd=53fc | `53fc` |
 
 ---
