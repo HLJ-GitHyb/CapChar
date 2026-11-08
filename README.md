@@ -11,7 +11,7 @@
 | 网盘 | 链接 | 提取码 / 密码 |
 | --- | --- | --- |
 | 夸克网盘 | https://pan.quark.cn/s/7b92263298d6 | `无` |
-| 蓝奏云 | https://wwalq.lanzoum.com/iaPTI4f6yuje| `d9du` |
+| 蓝奏云 | https://wwalq.lanzoum.com/iaPTI4f6yuje | `d9du` |
 
 ---
 
