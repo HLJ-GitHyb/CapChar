@@ -6,6 +6,14 @@
 - 平台：Windows（提供免安装绿色版 exe）
 - 技术栈：Python 3.13 · Tkinter · OpenCV · mss · MediaPipe Tasks (PoseLandmarker)
 
+## 下载
+
+| 网盘 | 链接 | 提取码 / 密码 |
+| --- | --- | --- |
+| 夸克网盘 | https://pan.quark.cn/s/5f52c9a2e181 | `ETVN` |
+| 蓝奏云 | https://wwalq.lanzoum.com/iTUtj4f5h9ri | `4yfh` |
+| 百度网盘 | https://pan.baidu.com/s/1eE_EDy6tlj8bzMY0n0taPw?pwd=53fc | `53fc` |
+
 ---
 
 ## 核心功能
